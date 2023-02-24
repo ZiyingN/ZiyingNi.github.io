@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziying NI"
+title                    : "Ziying Ni"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziying"
+  name             : "Ziying Ni"
   avatar           : "profile.png"
   bio              : 
   location         : "Belfast, UK"
