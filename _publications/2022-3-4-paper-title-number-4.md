@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-3-4-paper-title-number-4
 excerpt: 'In this brief, we proposed a SIKE accelerator with optimized multiplier and adder designs achieving the lowest area-time (AT) product with high operating frequency. The proposed SIKE accelerator for four different security levels has the highest frequency of 303.0-322.5 MHz with 4.0-21.0% improved AT in comparison to the state-of-the-art designs.'
 date: 2022-06-09
-venue: 'ISCAS'
+venue: 'TCAS-II'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Z. Ni, D. -E. -S. Kundi, M. O&lsquo;Neill and W. Liu, &quot;High-Performance Systolic Array Montgomery Multiplier for SIKE,&quot; in <i> IEEE Transactions on Circuits and Systems II: Express Briefs</i>. vol. 69, no. 9, pp. 3899-3903, Sept. 2022.'
 ---
