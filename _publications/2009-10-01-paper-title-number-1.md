@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "High Performance Modular Multiplication for SIDH"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 17 December 2019 
+venue: '39'
+pages: '3118-3122'
+paperurl: 'https://ieeexplore.ieee.org/document/8935201'
+citation: 'W. Liu, Z. Ni, J. Ni, C. Rafferty and M. O’Neill, High Performance Modular Multiplication for SIDH, in <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems <i>, vol. 39, no. 10, pp. 3118-3122, Oct. 2020, doi: 10.1109/TCAD.2019.2960330.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper, we propose a new modular multiplication algorithm and a new interleaved hardware architecture for SIDH. Performance results for the proposed modular multiplier using four parameter sets for the prime, p that correspond to the SIKE Round 2 parameter sets show significant advantages in speed.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/8935201)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: W. Liu, Z. Ni, J. Ni, C. Rafferty and M. O’Neill, "High Performance Modular Multiplication for SIDH," <i>in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems<i>, vol. 39, no. 10, pp. 3118-3122, Oct. 2020, doi: 10.1109/TCAD.2019.2960330.
