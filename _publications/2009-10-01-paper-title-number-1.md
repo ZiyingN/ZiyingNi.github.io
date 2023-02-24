@@ -7,7 +7,7 @@ date: 2019-12-17
 venue: 'TCAD'
 pages: '3118-3122'
 paperurl: 'http://ziyingn.github.io/ZiyingNi.github.io/files/paper1.pdf'
-citation: 'W. Liu, Z. Ni, J. Ni, C. Rafferty and M. O’Neill, "High Performance Modular Multiplication for SIDH," in <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems<i>, vol. 39, no. 10, pp. 3118-3122, Oct. 2020, doi: 10.1109/TCAD.2019.2960330.'
+citation: 'W. Liu, Z. Ni, J. Ni, C. Rafferty and M. O’Neill, "High Performance Modular Multiplication for SIDH," in <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems<i>, vol. 39, no. 10, pp. 3118-3122, Oct. 2020.'
 ---
 
 In this paper, we propose a new modular multiplication algorithm and a new interleaved hardware architecture for SIDH. Performance results for the proposed modular multiplier using four parameter sets for the prime, p that correspond to the SIKE Round 2 parameter sets show significant advantages in speed.
