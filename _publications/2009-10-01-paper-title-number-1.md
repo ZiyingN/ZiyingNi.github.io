@@ -6,7 +6,7 @@ excerpt: 'In this paper, we propose a new modular multiplication algorithm and a
 date: 2019 
 venue: 'TCAD'
 pages: '3118-3122'
-paperurl: 'https://ieeexplore.ieee.org/document/8935201'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
 In this paper, we propose a new modular multiplication algorithm and a new interleaved hardware architecture for SIDH. Performance results for the proposed modular multiplier using four parameter sets for the prime, p that correspond to the SIKE Round 2 parameter sets show significant advantages in speed.
