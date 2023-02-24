@@ -6,7 +6,7 @@ excerpt: 'In this paper, we reconstruct the systolic array based Montgomery mult
 date: 2021-4-27
 venue: 'ISCAS'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Z. Ni, D. -E. -S. Kundi, M. O'Neill and W. Liu. &quot;High-Performance Systolic Array Montgomery Multiplier for SIKE,&quot; <i>2021 IEEE International Symposium on Circuits and Systems (ISCAS)</i>. Daegu, Korea, 2021, pp. 1-5.'
 ---
 This work proposed an improved systolic array Montgomery multiplier for SIKE. The new multiplier uses three-stage pipeline architecture, which reduces the critical path of the multiplier and improves the frequency. In addition, the improved Montgomery multiplication algorithm reduces the DSP by nearly 1/4 and consumes less resources than the state-ofthe-art multiplication of SIKE.
 
