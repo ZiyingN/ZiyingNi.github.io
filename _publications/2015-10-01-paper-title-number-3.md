@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'In this work, we proposed a high-performance hardware architecture for the SIKE protocol. The architecture includes an improved multiplier based on the high-performance finite field multiplication (HFFM) algorithm which is 15%–20.7% faster than the previous multiplier based on the HFFM algorithm and a unified adder/subtractor with radix 3b . In addition, it also comprises an efficient scheduler strategy that decomposes all the functions of SIKE into finite field Fp and then effectively schedules through optimized multiplication chains for maximal performance. The proposed architecture is synthesized and implemented on Xilinx Virtex-7 FPGA for all the four variants of SIKE having security levels from 1 to 5 and achieved 2.6%–7.8% faster speeds as well as consumed less equivalent number of slices (ENS) than the state-of-the-art designs. In the comparison of area and time (AT), the proposed architecture is 14.2%–34.5% lower than the previous architecture.'
 date: 2022-03-04
-venue: 'Journal 1'
+venue: 'TVLSI'
 paperurl: 'https://ieeexplore.ieee.org/document/9728760'
 citation: 'Z. Ni, D. -E. -S. Kundi, M. O&lsquo;Neill and W. Liu, &quot;A High-Performance SIKE Hardware Accelerator; in <i>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</i>, vol. 30, no. 6, pp. 803-815, June 2022'
 ---
