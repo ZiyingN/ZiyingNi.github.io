@@ -1,9 +1,10 @@
 ---
 title: "HPKA: A High-Performance CRYSTALS-Kyber Accelerator Exploring Efficient Pipelining"
-collection: IEEE Transactions on Computers
+collection: publications 
 permalink: /publication/paper-5
 excerpt: 'The design methodology revolves around aggressively enabling maximum inter-module and intra module architectural parallelisation. To facilitate maximum throughput, FIFO-based buffering is provided and balanced to act as inter/intra-module pipelining. Area-time efficiency is high by effective resource reuse in case of NTT/INTT. A single NTT/INTT is computed in 128 cycles, once the pipeline is full. The FPGA based implementation results show that compared to the state-of-the-art, the proposed architecture delivers 24-52% speedups at three different security levels on Artix-7 and Zynq UltraScale+ devices, 50-75% reduction in DSPs and no BRAM resources usage for comparable security levels. Consequently, the AT product efficiency is reported to be 48-54% higher in comparison with the state-of-the-art designs.'
-date: 2022-10-16
+venue: 'TC' 
+date: 2023-07-15
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10193838'
 citation: 'Z. Ni, A. Khalid, D. -e. -S. Kundi, M. O'Neill and W. Liu, "HPKA: A High-Performance CRYSTALS-Kyber Accelerator Exploring Efficient Pipelining," in IEEE Transactions on Computers, doi: 10.1109/TC.2023.3296899.'
 ---
